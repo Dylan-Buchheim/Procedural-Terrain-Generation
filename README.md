@@ -2,7 +2,7 @@
  The Unity project folder for my terrain generation project.
  
  This project consists of a seeded voxel terrain generation algorithm based on the Perlin Noise function.
- Features Include:
+ \nFeatures Include:
  - Infinite procedural generation.
  - Terrain saving.
  - Terrain voxel manipulation (editable terrain at runtime).
