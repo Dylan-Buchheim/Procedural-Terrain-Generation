@@ -1,9 +1,9 @@
-# Procedural-Terrain_Generation
+# Procedural-Terrain-Generation
  The Unity project folder for my terrain generation project.
  
  This project consists of a seeded voxel terrain generation algorithm based on the Perlin Noise function.
  
- Features Include:
+ <b>Features Include:</b>
  - Infinite procedural generation.
  - Terrain saving.
  - Terrain voxel manipulation (editable terrain at runtime).
@@ -11,5 +11,5 @@
  
  You can find the majority of the original source code in /Assets/Scripts/...
  
- <b>Credit to Heikki Törmälä for his C# implementation of Perlin Noise which I used for this project.</b>
+ Credit to Heikki Törmälä for his C# implementation of Perlin Noise which I used for this project.
  
