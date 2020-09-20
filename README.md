@@ -11,5 +11,5 @@
  
  You can find the majority of the original source code in /Assets/Scripts/...
  
- * Credit to Heikki Törmälä for his C# implementation of Perlin Noise which I used for this project. *
+ <b>Credit to Heikki Törmälä for his C# implementation of Perlin Noise which I used for this project.</b>
  
